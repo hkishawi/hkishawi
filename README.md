@@ -1,7 +1,7 @@
 ![banner](https://unsplash.com/photos/pUAM5hPaCRI)
 
 ### Hi there 👋
-### My name is Hanny Kishawi
+### My name is Hanny Kishawi <br>
 - 🔭 I’m currently looking for a full-time software developer position. 
 - 😊 Feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/hkishawi/ 
 - 🌱 Always happy to collaborate and meet new people 
