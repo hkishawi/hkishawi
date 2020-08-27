@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently looking for a full-time software developer position. 
-- 😊 Feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/hkishawi/ 
-- 🌱 Always happy to collaborate and meet new people 
+...- 🔭 I’m currently looking for a full-time software developer position. 
+...- 😊 Feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/hkishawi/ 
+...- 🌱 Always happy to collaborate and meet new people 
 <!--
 **hkishawi/hkishawi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
