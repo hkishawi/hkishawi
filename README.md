@@ -3,7 +3,7 @@
 ### Hi there 👋
 ### My name is Hanny Kishawi <br>
 - 🔭 I’m currently looking for a full-time software developer position. 
-- 😊 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hkishawi "Hanny's LinkedIn Profile) 
+- 😊 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hkishawi "Hanny's LinkedIn Profile") 
 - 🌱 Always happy to collaborate and meet new people 
 
 <h3>Here are a few things I code with</h3>
