@@ -1,10 +1,11 @@
-![banner](Hanny_Kishawi_Banner.jpg)Hanny
+![banner](Hanny_Kishawi_Banner.jpg)
 
 ### Hi there 👋
 ### My name is Hanny Kishawi <br>
-- 🔭 I’m currently looking for a full-time software developer position. 
+- 🔭 I'm a full-stack developer with a preference for front-end and currently looking for a full-time software dev. position. 
 - 😊 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hkishawi "Hanny's LinkedIn Profile") 
 - 🌱 Always happy to collaborate and meet new people 
+- ⚡ Fun fact: ...
 
 <h3>Here are a few things I code with</h3>
 <p>
