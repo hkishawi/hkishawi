@@ -5,7 +5,7 @@
 - 🔭 I'm a full-stack developer with a preference for front-end and currently looking for a full-time software dev. position. 
 - 😊 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hkishawi "Hanny's LinkedIn Profile") 
 - 🌱 Always happy to collaborate and meet new people 
-- ⚡ Fun fact: ...
+
 
 <h3>Here are a few things I code with</h3>
 <p>
@@ -26,6 +26,7 @@
 Here are some ideas to get you started:
 
  ...
+ - ⚡ Fun fact: My dream occupation as a kid was to be wolverine, but now I'm a software engineer haha. ha. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
