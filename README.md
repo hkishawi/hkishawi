@@ -2,10 +2,11 @@
 
 ### Hi there 👋
 ### My name is Hanny Kishawi <br>
-- 🔭 I'm a full-stack developer with a preference for front-end and currently looking for a full-time software dev. position. 
-- 😊 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/hkishawi "Hanny's LinkedIn Profile") 
-- 🌱 Always happy to collaborate and meet new people 
-
+- 🔭 I'm a full-stack developer with a preference for front-end and currently looking for a full-time software dev position. 
+- 🎸 When I'm not coding, I'm picking up some chords or testing out new hiking trails 
+- ⚡ Fun fact: I'm a certified speech and language pathologist. and also a self-certified foodie 🌮🍹! 
+- 🌱 I'm a life-long learner who's always happy to collaborate and meet new people 
+- 😊 📫 Reach out to me on [LinkedIn](https://www.linkedin.com/in/hkishawi "Hanny's LinkedIn Profile") 
 
 <h3>Here are a few things I code with</h3>
 <p>
@@ -26,7 +27,7 @@
 Here are some ideas to get you started:
 
  ...
- - ⚡ Fun fact: My dream occupation as a kid was to be wolverine, but now I'm a software engineer haha. ha. 
+ My dream occupation as a kid was to be wolverine, but now I'm a software engineer haha. ha. 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
