@@ -10,7 +10,7 @@
 - 😊 📫 Reach out to me on 
 [LinkedIn](https://www.linkedin.com/in/hkishawi "Hanny's LinkedIn Profile") 
 
-<h3>👨‍💻 Here are a few things I code with</h3>
+<h3>👨‍💻 Here are a few things I code with ☕</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
