@@ -3,7 +3,7 @@
 ### Hi there 👋
 
 ### My name is Hanny Kishawi <br>
-- 🔭 I'm a full-stack developer who is currently looking for a full-time software dev position. 
+- 🔭 I'm a full-stack developer with a background in healthcare and who's currently looking for a full-time software dev position. 
 - 🎸 When I'm not coding, I'm picking up some chords, exploring hiking trails in the area, or hanging out by the bonfire with family and friends
 - ⚡ Fun fact: I'm a certified speech and language pathologist. and also a self-certified foodie 🌮🍹! 
 - 🌱 I'm a life-long learner who's always happy to collaborate and meet new people 
