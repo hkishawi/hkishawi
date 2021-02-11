@@ -8,7 +8,7 @@
 * ⚡  Fun fact: I'm a certified speech and language pathologist. and also a self-certified foodie 🌮🍹! 
 * 🌱  I'm a life-long learner who's always happy to collaborate and meet new people 
 * 😊 📫  Reach out to me on 
-[LinkedIn](https://www.linkedin.com/in/hkishawi "Hanny's LinkedIn Profile") 
+<b>[LinkedIn](https://www.linkedin.com/in/hkishawi "Hanny's LinkedIn Profile") </b>
 
 <h3>👨‍💻 Here are a few things I code with ☕</h3>
 <p>
